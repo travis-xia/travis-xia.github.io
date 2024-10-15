@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sheng Xia(夏晟)"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/

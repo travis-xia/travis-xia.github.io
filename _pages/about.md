@@ -16,4 +16,4 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Publication
 ============
-[Learned index for non-key queries.](https://link.springer.com/article/10.1007/s10115-024-02233-0)  Knowl Inf Syst (2024). Zhu, R., Wang, H., Xia, S. et al. (CCF-B,SCI)
+[Learned index for non-key queries.](https://link.springer.com/article/10.1007/s10115-024-02233-0)  Knowl Inf Syst (2024). Zhu R, Wang H, **Xia S**, et al. (CCF-B,SCI)
